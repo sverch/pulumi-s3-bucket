@@ -1,3 +1,2 @@
 config:
   aws:region: us-east-1
-  pulumi-s3-bucket:bucket-name: sverch-bucket-pulumi-set-1
